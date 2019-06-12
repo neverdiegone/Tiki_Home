@@ -4,9 +4,6 @@ import android.content.Context;
 import android.content.SharedPreferences;
 
 
-/**
- * Created by hnam on 14/10/2016.
- */
 public class UserPrefs {
     private static final String PREF_AUTHENTICATION = "userprefs";
     public static final String PREF_CACHE = "cache";
